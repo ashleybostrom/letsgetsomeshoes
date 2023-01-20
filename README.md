@@ -26,7 +26,6 @@ This project builds the backend for an e-commerce site with Object-Relational Ma
 * Type `npm i dotenv`
 1. **MySQL Tables:** 
 * Type `mysql -u root -p` then enter password to access MySQL
-* Type `source db/db.sql;` to use the database
 * Type `source db/schema.sql;` to use the schema files from that database
 * Type `quit;` to exit MySQL when you are complete
 
