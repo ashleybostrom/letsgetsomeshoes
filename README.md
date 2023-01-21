@@ -37,9 +37,10 @@ In your terminal, type `npm run seed && npm start`
 Your application is now ready.
 
 ## Walk-Through Video
-* [![Watch the Video][(https://drive.google.com/file/d/1yxhdmCL0bw3CWrHpl7rSHD-5izIBu4_3/view)]
+* [![Watch the Video][(https://drive.google.com/file/d/1I-ytZlzsmph3FOVvtzBf7ss-IWLsnZmm/view)]
 
 ## Links
+
 
 
 
